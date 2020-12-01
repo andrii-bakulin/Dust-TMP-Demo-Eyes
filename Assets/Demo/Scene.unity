@@ -2014,6 +2014,8 @@ MonoBehaviour:
   m_IterateMode: 1
   m_InstanceAccessMode: 0
   m_InstanceTypeMode: 0
+  m_InstancesFillRate: 0.75
+  m_InstancesFillSeed: 12345
   m_InstancesHolder: {fileID: 377699731}
   m_ForcedSetActive: 1
   m_Seed: 36956
@@ -2027,7 +2029,6 @@ MonoBehaviour:
   m_SourceObjectsMode: 1
   m_SourceObjectsHolder: {fileID: 1619351507}
   m_SourceObjects:
-  - {fileID: 0}
   - {fileID: 1536116269639147281, guid: e6929ca5c159d4dc8a96fe16f1fc7b19, type: 3}
   - {fileID: 1884998959933072392, guid: 6a4fb2a16fbf34e19a68a921c9a7843c, type: 3}
   - {fileID: 7090515706740486704, guid: 292e463df2d13449884ce5f16abcef0a, type: 3}
@@ -5948,7 +5949,7 @@ MonoBehaviour:
   m_Freeze: 0
   m_PositionEnabled: 1
   m_PositionAmplitude: {x: 9, y: 4, z: 9}
-  m_PositionSpeed: 1
+  m_PositionSpeed: 0.33
   m_RotationEnabled: 0
   m_RotationAmplitude: {x: 0, y: 90, z: 0}
   m_RotationSpeed: 1
