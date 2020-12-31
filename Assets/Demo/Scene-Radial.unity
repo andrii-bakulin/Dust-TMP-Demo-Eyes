@@ -309,7 +309,7 @@ MonoBehaviour:
   m_Orientation: 2
   m_Align: 1
   m_LevelsCount: 5
-  m_LevelRadiusOffset: 3
+  m_LevelRadiusOffset: 2.75
   m_DeltaCountPerLevel: 7
   m_StartAngle: 0
   m_EndAngle: 360
