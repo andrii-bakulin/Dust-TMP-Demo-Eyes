@@ -61,8 +61,4 @@ crashlytics-build.properties
 # Dust
 .idea/
 UserSettings/
-Assets/Dust
-Assets/DustGUI
-Assets/Dust.meta
-Assets/DustGUI.meta
 
